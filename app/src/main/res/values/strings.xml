@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FinalReport_02_20201036</string>
+    <string name="delete_dialog_title">영화 삭제</string>
+    <string name="delete_dialog_message">영화를 삭제하시겠습니까?</string>
+    <string name="terminate_dialog_title">앱 종료</string>
+    <string name="terminate_dialog_message">앱을 종료하시겠습니까?</string>
+    <string name="developer_dialog_title">개발자 정보</string>
+    <string name="search_title_dialog_title">제목으로 영화 검색</string>
+    <string name="search_director_dialog_title">감독으로 영화 검색</string>
+    <string name="dialog_cancle">취소</string>
+    <string name="delete_dialog_ok">삭제</string>
+    <string name="terminate_dialog_ok">종료</string>
+</resources>
